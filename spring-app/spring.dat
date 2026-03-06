@@ -1,0 +1,13 @@
+스프링부트-JSP로 같은 DB 쓰는 게시판 구현해본다음 
+PHP 환경과 직접 비교해보는게 목적
+spring boot 빌드용 폴더
+gradle 기반 빌드- 
+
+
+관련 의존성
+lombok
+Spring Security
+Mysql driver
+Spring Web
+JPA
+Thtmeleaf? -> jsp로 단순구현할건데 필요할지 모르겠음
