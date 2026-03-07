@@ -52,4 +52,9 @@ Homestead.json
 /.vagrant
 .phpunit.result.cache
 
-# End of https://www.toptal.com/developers/gitignore/api/java,laravel
+
+# Spring / Gradle
+spring-app/.gradle/
+spring-app/.gradle-user-home/
+spring-app/build/
+spring-app/**/build/
